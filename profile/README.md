@@ -42,7 +42,7 @@ Additionally, there are shared repositories that contain:
 - Core lab materials  
 - Reference code and frameworks  
 
-The **main laboratory repository** (`Artificial-Intelligence-Laboratory`) contains example exercises and templates used throughout the semester.
+The **main laboratory repository** ([DSAI-Artificial-Intelligence-Laboratory-Exercises](https://github.com/DSAI-AI-Laboratory-Organization/DSAI-Artificial-Intelligence-Laboratory-Exercises)) contains example exercises and templates used throughout the semester.
 
 ---
 
